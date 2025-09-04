@@ -30,7 +30,7 @@
     <image_link>https://example.test/images/test-hoodie-navy-m.jpg</image_link>
     <price>49.00</price>
     <categories>apparel,hoodie,testing</categories>
-    <inventory_quantity>3</inventory_quantity>
+    <inventory_quantity>0</inventory_quantity>
     <inventory_policy>1</inventory_policy>
   </Product>
 </Products>
